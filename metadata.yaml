@@ -1,0 +1,36 @@
+_repo: The-History-of-Puerto-RicoFrom-the-Spanish-Discovery-to-the-American-Occupation_12272
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Van Middeldyk, R. A. (Rudolph Adams)
+    aliases:
+    - Middeldyk, Rudolph Adams Van
+    - Middeldyk, R. A. Van (Rudolph Adams Van)
+    birthdate: 1832
+    gutenberg_agent_id: '4291'
+    url: http://www.gutenberg.org/2009/agents/4291
+  editor:
+    agent_name: Brumbaugh, Martin Grove
+    alias: Brumbaugh, M. G. (Martin Grove)
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '35469'
+    url: http://www.gutenberg.org/2009/agents/35469
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1951'
+- !lcsh 'Puerto Rico -- History'
+- GITenberg
+title: 'The History of Puerto Rico
+
+  From the Spanish Discovery to the American Occupation'
+url: http://www.gutenberg.org/ebooks/12272
